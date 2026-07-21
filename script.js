@@ -4,7 +4,6 @@ function isSameType(value1, value2) {
   }
 
   return typeof value1 === typeof value2;
-}
   //your js code here
 }
 
